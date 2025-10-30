@@ -15,11 +15,17 @@ A Streamlit web app for easy predictions:https://xgboostdiabetes.streamlit.app/ 
 
 ## 📂 Project Structure
 ├── diabetes.csv              # Dataset
+
 ├── app.py                    # Streamlit app (Logistic Regression)
+
 ├── train_model.py            # (Optional) script to train Logistic Regression and save model.pkl
+
 ├── model.pkl                 # Saved trained model (generated)
+
 ├── scaler.pkl                # Saved scaler (generated)
+
 ├── requirements.txt          # Python dependencies
+
 └── README.md                 # Project documentation
 
 ## 📊 Dataset
@@ -28,11 +34,19 @@ Features: Glucose, BMI, Age
 Target: Outcome (0 = No Diabetes, 1 = Diabetes)
 
 ## 📦 Requirements
+
 Python 3.8+
+
 Streamlit
+
 Pandas
+
 NumPy
+
 scikit-learn
+
 XGBoost
+
 Matplotlib
+
 Seaborn
