@@ -7,6 +7,7 @@ from sklearn.linear_model import LogisticRegression
 # ---------------------------
 # Load Dataset & Train Model (only once)
 # ---------------------------
+
 @st.cache_resource
 def load_model():
     df = pd.read_csv("diabetes.csv")
