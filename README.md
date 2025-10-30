@@ -6,8 +6,11 @@ A hospital wants to predict whether a patient has diabetes based on health indic
 A Streamlit web app for easy predictions:https://xgboostdiabetes.streamlit.app/ image
 
 ## 🚀 Features
+
 📊 Machine Learning Models (Logistic Regression & XGBoost)
+
 🧾 Input patient details (Glucose, BMI, Age)
+
 🔍 Predicts outcome (Diabetic / Not Diabetic)
 
 ## 📈 Model evaluation with Confusion Matrix, ROC Curve, AUC
