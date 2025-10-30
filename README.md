@@ -3,6 +3,7 @@
 A hospital wants to predict whether a patient has diabetes based on health indicators like Glucose levels, BMI, and Age. This project provides:
 
 ## App:
+
 A Streamlit web app for easy predictions:https://xgboostdiabetes.streamlit.app/ image
 
 ## 🚀 Features
