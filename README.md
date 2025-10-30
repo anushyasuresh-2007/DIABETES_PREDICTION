@@ -2,7 +2,7 @@
 ## 🏥 Diabetes Prediction System
 A hospital wants to predict whether a patient has diabetes based on health indicators like Glucose levels, BMI, and Age. This project provides:
 
-## App:
+## App :
 
 A Streamlit web app for easy predictions:https://diabetesprediction-app1.streamlit.app/
 
