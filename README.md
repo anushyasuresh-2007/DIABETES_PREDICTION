@@ -4,7 +4,7 @@ A hospital wants to predict whether a patient has diabetes based on health indic
 
 ## App:
 
-A Streamlit web app for easy predictions:https://xgboostdiabetes.streamlit.app/ image
+A Streamlit web app for easy predictions:https://diabetesprediction-app1.streamlit.app/
 
 ## 🚀 Features
 
